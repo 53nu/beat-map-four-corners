@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/beatmap/inputs</oscMessage>
+  <numInputs>3</numInputs>
+  <groupName>XY Drum Pad</groupName>
+  <inputNames>
+    <string>Mouse X</string>
+    <string>Mouse Y</string>
+    <string>X times Y</string>
+  </inputNames>
+</OSCInputGroup>

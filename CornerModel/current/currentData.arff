@@ -1,0 +1,63 @@
+@relation dataset
+
+@attribute ID numeric
+@attribute Time date 'yyyy/MM/dd HH:mm:ss:SSS'
+@attribute 'Training round' numeric
+@attribute 'Mouse X' numeric
+@attribute 'Mouse Y' numeric
+@attribute 'X times Y' numeric
+@attribute 'Kick 1' numeric
+@attribute 'Kick 2' numeric
+@attribute 'Kick 3' numeric
+@attribute 'Kick 4' numeric
+@attribute 'Kick 5' numeric
+@attribute 'Kick 6' numeric
+@attribute 'Kick 7' numeric
+@attribute 'Kick 8' numeric
+@attribute 'Kick 9' numeric
+@attribute 'Kick 10' numeric
+@attribute 'Kick 11' numeric
+@attribute 'Kick 12' numeric
+@attribute 'Kick 13' numeric
+@attribute 'Kick 14' numeric
+@attribute 'Kick 15' numeric
+@attribute 'Kick 16' numeric
+@attribute 'Snare 1' numeric
+@attribute 'Snare 2' numeric
+@attribute 'Snare 3' numeric
+@attribute 'Snare 4' numeric
+@attribute 'Snare 5' numeric
+@attribute 'Snare 6' numeric
+@attribute 'Snare 7' numeric
+@attribute 'Snare 8' numeric
+@attribute 'Snare 9' numeric
+@attribute 'Snare 10' numeric
+@attribute 'Snare 11' numeric
+@attribute 'Snare 12' numeric
+@attribute 'Snare 13' numeric
+@attribute 'Snare 14' numeric
+@attribute 'Snare 15' numeric
+@attribute 'Snare 16' numeric
+@attribute 'Hi-hat 1' numeric
+@attribute 'Hi-hat 2' numeric
+@attribute 'Hi-hat 3' numeric
+@attribute 'Hi-hat 4' numeric
+@attribute 'Hi-hat 5' numeric
+@attribute 'Hi-hat 6' numeric
+@attribute 'Hi-hat 7' numeric
+@attribute 'Hi-hat 8' numeric
+@attribute 'Hi-hat 9' numeric
+@attribute 'Hi-hat 10' numeric
+@attribute 'Hi-hat 11' numeric
+@attribute 'Hi-hat 12' numeric
+@attribute 'Hi-hat 13' numeric
+@attribute 'Hi-hat 14' numeric
+@attribute 'Hi-hat 15' numeric
+@attribute 'Hi-hat 16' numeric
+@attribute 'Tempo (BPM)' numeric
+
+@data
+1,'2026/11/23 15:11:56:205',0,0,0,0,1,0,0,0,0,0,0,0,0.8,0,0,0,0,0,0,0,0,0,0,0,0.85,0,0,0,0,0,0,0,0.9,0,0,0,0.48,0,0,0,0.35,0,0,0,0.49,0,0,0,0.42,0,0,0,84
+2,'2026/11/23 15:11:56:212',0,1,0,0,1,0,0,0,0,0,0.85,0,0,0,0.66,0,0,0,0,0,0,0,0,0,0.84,0,0,0,0,0,0,0,0.92,0,0,0.35,0.65,0,0.32,0,0,0.75,0,0,0.57,0,0,0.43,0,0,0.7,0,108
+3,'2026/11/23 15:11:56:213',0,0,1,0,0.87,0,0,0.63,0,0,0,0,0,0,0,0.93,0,0,0.68,0,0,0,0,0,0.76,0,0,0,0,0,0.34,0,0.85,0,0,0,0.4,0,0,0.29,0,0,0.51,0,0.44,0,0,0.34,0,0,0.47,0,96
+4,'2026/11/23 15:11:56:213',0,1,1,1,1,0,0,0,0.87,0,0,0,1,0,0,0,0.85,0,0,0,0,0,0,0,0.67,0,0,0,0,0,0,0,0.8,0,0,0,0.64,0.35,0.53,0.42,0.64,0.35,0.53,0.42,0.64,0.35,0.53,0.42,0.64,0.35,0.53,0.42,136
